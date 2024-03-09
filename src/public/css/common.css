@@ -1,0 +1,17 @@
+.header {
+    background: #fff;
+    font-family: "Noto Serif", serif;
+}
+
+.header__inner {
+    margin: 0 auto;
+    padding: 20px 15px;
+    text-align: center;
+    border-bottom: 1px solid rgb(235, 235, 235);
+}
+
+.header__title {
+    color: rgb(130, 117, 107);
+    text-decoration: none;
+    font-size: 35px;
+}
